@@ -2,7 +2,7 @@ TaskFlux/
 │
 ├── app.py
 ├── core.py
-├── taskflux_logo.png
+│
 │
 ├── README.md
 ├── LICENSE
