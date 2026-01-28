@@ -1,0 +1,16 @@
+TaskFlux/
+│
+├── app.py
+├── core.py
+├── taskflux_logo.png
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .gitignore
+│
+└── screenshots/
+      ├── dashboard.png
+      ├── processes.png
+      ├── threats.png
+      └── splash.png
