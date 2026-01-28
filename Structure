@@ -2,8 +2,6 @@ TaskFlux/
 │
 ├── app.py
 ├── core.py
-│
-│
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
